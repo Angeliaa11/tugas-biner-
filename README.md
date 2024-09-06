@@ -25,6 +25,7 @@ Nilai desimal: 38 – 25 = 13
 
 
 #perkalian biner
+
 1). 110 × 101
     = 11110
 Nilai desimal: 6 × 5 = 30
